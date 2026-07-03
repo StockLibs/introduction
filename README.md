@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- You can link your custom geometric red-to-black logo/banner here -->
-  <img src="https://github.com/StockLibs/.github/blob/main/banner.png?raw=true" alt="StockLibs Logo" width="800"/>
+  <img src="https://github.com/StockLibs/.github/blob/main/banner.png?raw=true" alt="StockLibs Logo" height="250"/>
 </p>
 
 ## 📌 What is StockLibs?
