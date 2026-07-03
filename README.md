@@ -13,6 +13,11 @@ StockLibs is a dedicated development collective focused on building high-perform
 ## 🛠️ Tech Stack & Ecosystem
 ` Java ` • ` Luau ` • ` Python ` • ` AutoHotkey ` • ` HTML ` • ` CSS `• ` Game Mods `
 ![](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white) ![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+<!-- HTML5 Badge -->
+![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+
+<!-- Custom Games Badge (Uses a standard gaming controller icon) -->
+![](https://img.shields.io/badge/Games-000000?style=for-the-badge&logo=gamecontroller&logoColor=white)
 
 ---
 
