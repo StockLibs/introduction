@@ -6,9 +6,7 @@
 </p>
 
 ## 📌 What is StockLibs?
-test
-test
-test                                                                                                                   <img src="https://github.com/StockLibs/introduction/blob/main/Untitled29_20260701185337.png?raw=true" height="100"/>
+whebnsfoiezoszfiluszfosezzsfiusoizfowezofiuspiofzsoidzfosufipsezotfiosdzfpisuefopiszfosz0pefuposeufoizfsoizfpefupszfo8s6e0f9usioezfsioetfs9e                                                                                                                <img src="https://github.com/StockLibs/introduction/blob/main/Untitled29_20260701185337.png?raw=true" height="100"/>
 
 ---
 
