@@ -6,7 +6,7 @@
 </p>
 
 ## 📌 What is StockLibs?
-StockLibs is a dedicated development collective focused on building high-performance utilities, streamlined automation scripts, and robust system frameworks. We specialize in modular, efficient code designed to optimize performance and elevate system capabilities.
+StockLibs is a dedicated development collective focused on building high-performance utilities, streamlined automation scripts, and robust system frameworks. We specialize in modular, efficient code designed to optimize performance and elevate system capabilities. <img src="https://github.com/StockLibs/introduction/blob/main/Untitled29_20260701185337.png?raw=true"/>
 
 ---
 
